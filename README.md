@@ -2,6 +2,8 @@
 
 My macOS terminal setup: Ghostty + zsh + Starship, with fastfetch, bat, eza and fzf.
 
+![Ghostty terminal with fastfetch and the Starship prompt](screenshot.png)
+
 | File | What it is |
 | --- | --- |
 | `.config/ghostty/config` | Ghostty: Dark Pastel theme, JetBrainsMono Nerd Font, blurred translucent background |
